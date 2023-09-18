@@ -1,0 +1,17 @@
+//
+//  ModalsApp.swift
+//  Modals
+//
+//  Created by admin on 27/07/2023.
+//
+
+import SwiftUI
+
+@main
+struct ModalsApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
